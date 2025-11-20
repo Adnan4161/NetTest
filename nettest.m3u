@@ -7,6 +7,79 @@ https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=77u7w792hndx&app=da
 http://honeywatch.net:80/play/live.php?mac=00:1A:79:BA:9E:AE&stream=912479&extension=ts&play_token=XMfzAK5Htq
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21j5jLmG/show.jpg" group-title="ULUSAL",SHOWTV HD
 https://ciner.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/21j5jLmG/show.jpg" group-title="ULUSAL",SHOWTV HD
+#EXTM3U
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3111/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3579/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3438/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://ip100.radyotelekomtv.com:3326/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3689/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3968/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3324/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3478/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3183/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3020/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3732/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3516/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3040/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3838/stream/play.m3u8
+#EXTINF:-0 ,Stream
+#EXTGRP:Unknown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ip100.radyotelekomtv.com:3843/stream/play.m3u8
+
+
 
